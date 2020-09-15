@@ -1,5 +1,5 @@
 !----------------------------------------
-!PHY1038 Assignment 2 - Series Computation
+!PHY1038 Assignment - Series Computation
 !URN 6457454
 !February 27th 2017
 !----------------------------------------
