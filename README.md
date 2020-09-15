@@ -5,9 +5,3 @@ Each program here is written in Fortran 90. This was the language taught by the 
 
 Please note that these programs are presented as submitted in 2017. They all compile but they are certainly not perfect, by any means. The purpose of these repository is to track my journey through the coding world, and these were my first steps.
 
-
-
-The program titled newtonraphson.f90 uses the Newton-Raphson method to find roots in the case of a cubic function. 
-
-
-
